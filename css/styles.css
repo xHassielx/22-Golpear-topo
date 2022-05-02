@@ -3,7 +3,7 @@
 	height: 606px;
 	display: flex;
 	flex-wrap: wrap;
-	background-image: url("/fondo.jpg");
+	background-image: url("../fondo.jpg");
 }
 
 .square {
@@ -13,6 +13,6 @@
 }
 
 .mole {
-	background-image: url("/mole-topo.gif");
+	background-image: url("../mole-topo.gif");
 	background-size: cover;
 }
